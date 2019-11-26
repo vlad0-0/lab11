@@ -7,4 +7,4 @@ while a <= 0 or b <= 0 or a < b:
 while a > b:
   a = a - b
   c += 1
-print(c)
+print(a)
