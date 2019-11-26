@@ -4,4 +4,4 @@ c = 0
 while s < n:
   c += 1
   s += c
-print(c)
+print(s, c)
